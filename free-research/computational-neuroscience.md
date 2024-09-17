@@ -36,19 +36,21 @@ We elaborate a simple biologically-plausible candidate mechanism explaining how 
 
 ### 2. Overlooked Evidence for Biological Plausibility
 
-Our literature review uncovers a range of findings that, while not yet mainstream, strongly support the biological plausibility of our hypothesis, highlighting under-explored areas within the field. For example, we found that action potentials do backpropagate and that such backpropagation can be modulated by the same cholinergic systems that trigger encoding and retrieval of cue-based memories. Similarly, bi-directional gap junctions, which are able to carry our backpropagated reconstruction currents, are not confined to developmental stages or the olfactory bulb, as is often suggested. Instead, recent evidence indicates their widespread presence in the cortex, suggesting a disparity between their prevalence and the limited functions currently understood. Blocking gap junctions actually even disrupts memory and related network oscillations, but the "how" is poorly understood.
+The literature review in the preprint uncovers a range of findings that, while not yet mainstream, strongly support the biological plausibility of the hypothesis, highlighting under-explored areas within the field. For example, action potentials do backpropagate and such backpropagation can be modulated by the same cholinergic systems that trigger encoding and retrieval of cue-based memories. Similarly, bi-directional gap junctions, which are able to carry our backpropagated reconstruction currents, are not confined to developmental stages or the olfactory bulb, as is often suggested. Instead, recent evidence indicates their widespread presence in the cortex, suggesting a disparity between their prevalence and the limited functions currently understood. Blocking gap junctions actually even disrupts memory and related network oscillations, but the "how" is poorly understood.
+
+The figure belows shows all the steps involved in the hypothesis.
 
 ![A biologically plausible illustration of the toy example during recall, under the light of evidence we found in the literature.](/assets/img/assumptions_overview_evidence4.png "Caption: A biologically plausible illustration...")
 
-### 2. Overlooked Evidence for Biological Plausibility
+And below is a summary of evidence that supports each of the steps.
 
 1. **Forward Processing of Cues via Chemical Synapses**
 
-   Established neural pathways convey sensory information to the MTL for memory processing (Mishkin et al., 1983; Squire & Zola-Morgan, 1991).
+Established neural pathways convey sensory information to the MTL for memory processing (Mishkin et al., 1983; Squire & Zola-Morgan, 1991).
 
 2. **Activation of Source Pointer Neurons in the MTL**
 
-   Highly selective neurons in the MTL/hippocampus ("pointer neurons") fire in response to specific cues, indexing the corresponding memory trace. Neurons selectively responding to specific concepts have been identified in the MTL (Quiroga et al., 2005, 2008). The hippocampus serves as an indexing system for memory retrieval (Teyler & DiScenna, 1986; Moscovitch, 2008).
+   Highly selective neurons in the MTL/hippocampus ("pointer neurons") fire in response to specific cues, indexing the corresponding memory trace. Neurons selectively responding to specific concepts have been identified in the MTL (Quiroga et al., 2005, 2008). The hippocampus also serves as an indexing system for memory retrieval (Teyler & DiScenna, 1986; Moscovitch, 2008).
 
 3. **Cholinergic Modulation Facilitates Backpropagation and Memory Retrieval**
 
