@@ -19,7 +19,7 @@ permalink: /free-research/computational-neuroscience/
 
 
 
-After 6 years of work on this theory in the shadows, I decided to champion it, for I believe it deserves to be given a chance, and for it seems that no one else would do it if I don't (First arxiv available since January 2021).
+After 6 years of work on this theory in the shadows, I decided to champion it, for I believe it deserves to be given a chance.
 
 
 ## Backpropagation-based Recollection of Memories: Overview
