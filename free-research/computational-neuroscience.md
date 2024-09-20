@@ -12,7 +12,7 @@ permalink: /free-research/computational-neuroscience/
 
 <div class="video-container">
   <video autoplay muted loop>
-    <source src="https://github.com/user-attachments/assets/e39bcc57-6946-4edd-9823-dbee50fc1f5d" type="video/mp4">
+    <source src="https://github.com/user-attachments/assets/aea60301-0ec5-4f5f-a329-9f45bcbeebc0" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
