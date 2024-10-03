@@ -29,7 +29,7 @@ permalink: /free-research/computational-neuroscience/
 
 
 <div class="video-container">
-    <iframe src="https://www.youtube.com/embed/QTAQDRz04vU?autoplay=1&showinfo=0&mute=1&controls=1&modestbranding=0&cc_load_policy=0&iv_load_policy=3&rel=0&playsinline=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/QTAQDRz04vU?autoplay=1&showinfo=0&mute=1&controls=1&modestbranding=1&cc_load_policy=0&iv_load_policy=3&rel=0&playsinline=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 
