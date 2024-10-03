@@ -10,12 +10,11 @@ permalink: /free-research/computational-neuroscience/
 
 <p align="center"><i>If there is such a simple mechanism to solve the problem, why wouldn't nature use it?</i></p>
 
+
 <div class="video-container">
-  <video autoplay muted loop>
-    <source src="https://github.com/user-attachments/assets/a6159115-f002-456b-a425-2695d42a47f0" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/QTAQDRz04vU?autoplay=1&mute=1&loop=1&playlist=QTAQDRz04vU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
 
 
 
