@@ -1,0 +1,43 @@
+.navbar-custom .navbar-nav .nav-item {
+        font-size: 0.75rem;
+      }
+      
+    .dropdown-item  {
+        font-size: 0.72rem;
+        text-align: center;
+      }
+
+    .navbar-custom .nav-item.dropdown .dropdown-menu .dropdown-item {
+      padding-left: 1rem;
+      }
+      
+    /* Style for expanded navbar (desktop) */
+    @media (max-width: 1199px) {
+      .navbar-custom .nav-item.dropdown .dropdown-menu .dropdown-item {
+          padding-left: 1rem;
+          text-align: left;
+      }
+  }
+
+      .navbar-custom .navbar-nav .dropdown-menu .dropdown-item {
+        white-space: normal;
+        word-break: normal;
+        overflow-wrap: normal;
+      }
+
+#nav-search-icon {
+    display: inline-block;
+  }
+  #nav-search-text {
+    display: none;
+  }
+
+.intro-header.big-img {
+    background-position: 40% 45% !important; /* or center top, 50% 15%, etc. */
+    background-size: cover !important;
+  }
+  
+  .intro-header.big-img .page-heading,
+.intro-header.big-img .post-heading {
+  padding: 13rem 0 !important; /* or 14rem, 18rem, etc. */
+}

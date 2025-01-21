@@ -11,7 +11,7 @@ During my time at Huawei, I promoted two main lines of work that applied natural
 
 1. **Multi-modal Network Data**: I observed a bimodal nature in network data: sequences of *entities* (e.g., IP addresses, domain names) and *quantities* (e.g., measurements). I proposed applying NLP-based representation learning techniques to encode sequences of entities, similar to how words are represented in a language; in addition to classic representation learners to learn from quantities. This approach has proven effective across various use cases and fruitful collaborations I had on the topic.
 
-2. **Non-Language Logs**: Applying language modeling to logs that are not traditional language, such as shell/bash commands, firewall logs and network configurations.
+2. **Non-Natural Language Logs**: Applying language modeling to logs that are not traditional language, such as shell/bash commands, firewall logs and network configurations.
 
 ---
 
