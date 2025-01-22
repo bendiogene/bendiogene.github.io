@@ -63,7 +63,7 @@ Large language models have shown remarkable ability in building world models (mu
   <p style="font-style: italic;">The two major problems of current Large World Models</p>
 </div>
 
-When LLMs "generate possible futures", they struggle to distinguish between what is real and what is false. Additionally, while humans engage in step-by-step trial and error processes, LLMs can do this today but forget beyond their context window.
+When LLMs "generate possible futures", they struggle to distinguish between what is real and what is not. Additionally, while humans engage in step-by-step trial and error processes, LLMs can do this today but forget beyond their context window.
 
 ## 3. A "hippocampus" is a key missing piece towards AGI
 
