@@ -61,18 +61,22 @@ And this is when, after taking online computational neuroscience courses, I star
 
 </div>
 
-## Selected recent work
+## Selected highlights
 
-1. Ben Houidi, Z. (2024). "Evaluating the computational efficiency of a biologically plausible action potential backpropagation mechanism for memory retrieval and generative cognition". *Society for Neuroscience Annual Meeting*, Chicago.
-   - [Extended version available on bioRxiv](https://www.biorxiv.org/cgi/content/short/2024.02.05.578854v1)
+1. Ben Houidi, Zied. (2025). "Neural backtracking: A biological mechanism for generative recall via sparse and distributed coding". *Computational and Systems Neuroscience Cosyne 2025*. doi:10.57736/8caf-aeed.
+- [Extended version available on bioRxiv](https://www.biorxiv.org/cgi/content/short/2024.02.05.578854v1) 
 
-2. Boffa, M., Drago, I., Mellia, M., Vassio, L., Giordano, D., Valentim, R., & Ben Houidi, Z. (2024). "LogPrécis: Unleashing Language Models for Automated Malicious Log Analysis". *Elsevier Computers & Security*.
+2. Huet, Alexis, Ben Houidi, Zied, & Rossi, Dario. (2025). "Episodic Memories Generation and Evaluation Benchmark for Large Language Models". *International Conference on Learning Representations ICLR 2025*.  
+   *Equal contribution.* ♰ Principal investigator.
 
-3. Ben Houidi, Z., Azorin, R., Gallo, M., Finamore, A., & Rossi, D. (2022). "Towards a systematic multi-modal representation learning for network data". *ACM HotNets*.
+3. Boffa, M., Drago, I., Mellia, M., Vassio, L., Giordano, D., Valentim, R., & Ben Houidi, Z. (2024). "LogPrécis: Unleashing Language Models for Automated Malicious Log Analysis". *Elsevier Computers & Security*.
 
-4. Gioacchini, L., Vassio, L., Mellia, M., Drago, I., Ben Houidi, Z., & Rossi, D. (2021). "DarkVec: Automatic Analysis of Darknet Traffic with Word Embeddings". *ACM CoNEXT*.
+4. Ben Houidi, Z., Azorin, R., Gallo, M., Finamore, A., & Rossi, D. (2022). "Towards a systematic multi-modal representation learning for network data". *ACM HotNets*.
 
-5. Ben Houidi, Z. (2016). "A knowledge-based systems approach to reason about networking". *ACM HotNets*.
+5. Gioacchini, L., Vassio, L., Mellia, M., Drago, I., Ben Houidi, Z., & Rossi, D. (2021). "DarkVec: Automatic Analysis of Darknet Traffic with Word Embeddings". *ACM CoNEXT*.
+
+6. Ben Houidi, Zied. (2016). "A knowledge-based systems approach to reason about networking". *ACM HotNets*.
+
 
 [Full publication list on DBLP](https://dblp.org/pid/64/2520.html)
 <script>
