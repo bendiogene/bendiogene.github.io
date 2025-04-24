@@ -64,10 +64,9 @@ And this is when, after taking online computational neuroscience courses, I star
 
 ## Selected highlights
 
-1. Ben Houidi, Zied. (2025). "Neural backtracking: A biological mechanism for generative recall via sparse and distributed coding". *Computational and Systems Neuroscience Cosyne 2025*. doi:10.57736/8caf-aeed.
-- [Extended version available on bioRxiv](https://www.biorxiv.org/cgi/content/short/2024.02.05.578854v1) 
+1. Ben Houidi, Zied. (2025). "Neural backtracking: A biological mechanism for generative recall via sparse and distributed coding". *Computational and Systems Neuroscience Cosyne 2025*. [doi:10.57736/8caf-aeed](https://www.world-wide.org/cosyne-25/neural-backtracking-biological-mechanism-fafb50d4/). [Extended version available on bioRxiv](https://www.biorxiv.org/cgi/content/short/2024.02.05.578854v1) 
 
-2. Huet, Alexis* , Ben Houidi, Zied*♰, & Rossi, Dario. (2025). "Episodic Memories Generation and Evaluation Benchmark for Large Language Models". *International Conference on Learning Representations ICLR 2025*.  * Equal contribution. * ♰ Principal investigator.
+2. Huet, Alexis\* , Ben Houidi, Zied\*♰, & Rossi, Dario. (2025). "Episodic Memories Generation and Evaluation Benchmark for Large Language Models". *International Conference on Learning Representations ICLR 2025*.  \* Equal contribution. \* ♰ Principal investigator.
 
 3. Boffa, M., Drago, I., Mellia, M., Vassio, L., Giordano, D., Valentim, R., & Ben Houidi, Z. (2024). "LogPrécis: Unleashing Language Models for Automated Malicious Log Analysis". *Elsevier Computers & Security*.
 
