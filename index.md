@@ -7,7 +7,8 @@ cover-img: /assets/img/Zied_SA1.jpg
 
 # Short bio
 
-I define myself best as a computational thinker, in that I use data-driven and symbolic methods to observe and understand phenomena, and to imagine and build systems with pre-defined behaviors. I am equally interested in the computational foundations of thinking. Currently a Principal Researcher at Huawei Technologies, much of my previous work has been driven by employer interests (aligned research), spanning various aspects of distributed computer networks (routing, internet economy, automated reasoning, language modelling for cybersecurity), AI/ML, and computational social science. In parallel, I conduct what I call "free research" in my spare time, focusing on computational neuroscience and philosophy/epistemology.
+I define myself best as a computational thinker, in that I use data-driven and symbolic methods to observe and understand phenomena, and to imagine and build systems with pre-defined behaviors. I am equally interested in the computational foundations of thinking. Currently a Principal Researcher at Huawei Technologies, much of my previous work has been driven by employer interests (aligned research), spanning various aspects of distributed computer networks (routing, internet economy, automated reasoning, language modelling for cybersecurity), AI/ML, and computational social science. 
+In parallel, I conduct "free research" in computational neuroscience and computational philosophy/epistemology, exploring foundational questions and theories that bridge AI and human generative cognition. 
 
 My work on automated reasoning about networks (2014~2017) led me to realize the role of offline conceptual simulation in solving general offline-reasoning tasks for both artificial and biological agents. Inspired by Leibniz's dream of a characteristica universalis, I demonstrated that conceptual simulation (even using first-order logic) could reinvent Internet standards and generate patentable network solutions. This thinking opened new pathways in my free investigations, leading me to develop the [backpropagation-based recollection](https://www.biorxiv.org/cgi/content/short/2024.02.05.578854v1) theory, which explains how explicit memories are retrieved "offline" in the brain, including during imaginative mind-wandering.
 
@@ -66,8 +67,7 @@ And this is when, after taking online computational neuroscience courses, I star
 1. Ben Houidi, Zied. (2025). "Neural backtracking: A biological mechanism for generative recall via sparse and distributed coding". *Computational and Systems Neuroscience Cosyne 2025*. doi:10.57736/8caf-aeed.
 - [Extended version available on bioRxiv](https://www.biorxiv.org/cgi/content/short/2024.02.05.578854v1) 
 
-2. Huet, Alexis, Ben Houidi, Zied, & Rossi, Dario. (2025). "Episodic Memories Generation and Evaluation Benchmark for Large Language Models". *International Conference on Learning Representations ICLR 2025*.  
-   *Equal contribution.* ♰ Principal investigator.
+2. Huet, Alexis* , Ben Houidi, Zied*♰, & Rossi, Dario. (2025). "Episodic Memories Generation and Evaluation Benchmark for Large Language Models". *International Conference on Learning Representations ICLR 2025*.  * Equal contribution. * ♰ Principal investigator.
 
 3. Boffa, M., Drago, I., Mellia, M., Vassio, L., Giordano, D., Valentim, R., & Ben Houidi, Z. (2024). "LogPrécis: Unleashing Language Models for Automated Malicious Log Analysis". *Elsevier Computers & Security*.
 
